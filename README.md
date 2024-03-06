@@ -42,7 +42,7 @@
 ## 使用U-Net在DRIVE数据集上训练得到的权重(仅供测试使用)
 - 链接: https://pan.baidu.com/s/1BOqkEpgt1XRqziyc941Hcw  密码: p50a
 
-## 如果对U-Net网络不了解的可参考我的bilibili
+## 如果对U-Net网络不了解的可参考霹雳吧啦wz的bilibili
 * [https://www.bilibili.com/video/BV1Vq4y127fB/](https://www.bilibili.com/video/BV1Vq4y127fB/)
 
 
