@@ -60,6 +60,6 @@ def cat_list(images, fill_value=0):
     return batched_imgs
 
 
-root_path = r"D:\dataset"
-datasets1 = HelaDataset(root_path,train=True)
+# root_path = r"D:\dataset"
+# datasets1 = HelaDataset(root_path,train=True)
 
