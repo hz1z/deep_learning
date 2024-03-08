@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 
 #*************************将图片中大于0的像素转为255***************************************************#
-mask_path = r"D:\dataset\DIC-C2DH-HeLa1\training\mask\man_seg000.tif"
+mask_path = r"D:\dataset\DIC-C2DH-HeLa1\test\mask\man_seg004.tif"
 threshold = 1
 table = []
 for i in range(256):
